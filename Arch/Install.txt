@@ -1,0 +1,5 @@
+
+keyloads ja106
+
+lsdisk
+cgdisk /dev/sda
