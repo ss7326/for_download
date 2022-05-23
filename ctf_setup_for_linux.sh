@@ -13,7 +13,7 @@ sudo sys/install.sh
 
 sudo apt-get install ghex -y
 
-sudo apt-get installbinutils -y
+sudo apt-get install binutils -y
 
 wget http://sourceforge.net/projects/dex2jar/files/dex2jar-2.0.zip
 unzip dex2jar-2.0.zip
