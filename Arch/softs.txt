@@ -1,0 +1,10 @@
+
+softether
+vscode
+git
+virtualbox
+ufw
+gedit
+vim
+bash
+dolphin
