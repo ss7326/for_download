@@ -3,13 +3,17 @@
 sudo apt-get install strace -y
 sudo apt-get install ltrace -y
 
+sudo apt-get -y install \ bash \ coreutils \ grep \ iproute 2 \ iputils-ping \ traceroute \ tcpdump \ bind 9-dnsutils \ dnsmasq-base \ netcat-openbsd \ python 3 \ curl \ wget \ iptables \ procps \ isc-dhcp-client
+sudo apt -y install git
+sudo apt -y install gedit
+
 git clone https://github.com/radare/radare2
 cd radare2
 sudo sys/install.sh
 
 sudo apt-get install ghex -y
 
-sudo apt-get installbinutils -y
+sudo apt-get install binutils -y
 
 wget http://sourceforge.net/projects/dex2jar/files/dex2jar-2.0.zip
 unzip dex2jar-2.0.zip
