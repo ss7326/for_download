@@ -28,3 +28,4 @@ yay -S vim
 yay -S emacs
 
 yay -S dolphin
+sudo pacman -S net-tools
