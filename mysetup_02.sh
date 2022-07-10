@@ -22,3 +22,4 @@ systemctl restart ssh
 sudo apt-get -y install \ bash \ coreutils \ grep \ iproute 2 \ iputils-ping \ traceroute \ tcpdump \ bind 9-dnsutils \ dnsmasq-base \ netcat-openbsd \ python 3 \ curl \ wget \ iptables \ procps \ isc-dhcp-client
 sudo apt -y install git
 sudo apt -y install gedit
+sudo apt -y install gcc

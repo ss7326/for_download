@@ -8,3 +8,4 @@ gedit
 vim
 bash
 dolphin
+
