@@ -1,0 +1,15 @@
+tmuxをインストールします
+
+$ sudo apt-get install tmux
+
+tmuxを実行するには
+
+$ tmux new -NS 開発者
+
+キーボードショートカット：
+
+CTRL + B +％： 垂直分割。
+CTRL + B +“： 水平分割。
+CTRL + B + O： 他のシェルをアクティブにします。
+CTRL + B + D： tmuxから切り離します。
+CTRL + B +？： ヘルプ。

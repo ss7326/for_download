@@ -1,5 +1,6 @@
 #! /bin/sh
 
+sudo apt-get install tmux
 sudo apt-get install strace -y
 sudo apt-get install ltrace -y
 
